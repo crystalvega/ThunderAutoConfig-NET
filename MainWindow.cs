@@ -30,5 +30,10 @@ namespace ThunderAutoConfig_NET
                 checkedListBox1.Items.Add("Ploho");
             }
         }
+
+        private void ReadMails()
+        {
+
+        }
     }
 }
